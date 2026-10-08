@@ -1,0 +1,7 @@
+# Preserve the imported source snapshot byte for byte.
+*.m -text
+*.sh -text
+*.env -text
+*.mat -text
+*.md text eol=lf
+*.json text eol=lf

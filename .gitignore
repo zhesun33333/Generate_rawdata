@@ -1,0 +1,11 @@
+GeneratedPure16k/
+GeneratedPure*/
+**/ship_radiated_noise_dataset*/
+**/logs/
+*.wav
+*.arr
+*.prt
+*.asv
+*.log
+.DS_Store
+Thumbs.db
